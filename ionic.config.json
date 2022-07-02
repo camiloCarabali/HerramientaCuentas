@@ -1,0 +1,7 @@
+{
+  "name": "baseDatos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
