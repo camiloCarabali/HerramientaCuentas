@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "database-c600c": {
+      "hosting": {
+        "app": [
+          "database-c600c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "database-c600c"
+  }
+}
